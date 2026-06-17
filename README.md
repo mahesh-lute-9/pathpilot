@@ -151,7 +151,7 @@ flutter run
 
 👨‍💻 Author
 - Mahesh Lute
-- GitHub: https://github.com/mahi-codes-dev
+- GitHub: https://github.com/mahesh-lute-9
 
 📜 License
 - This project is created for educational and hackathon purposes.
